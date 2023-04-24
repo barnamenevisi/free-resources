@@ -17,6 +17,7 @@
 ### جنگو
 
 - [الگوهای طراحی جنگو و رویه‌های برتر](https://github.com/ftg-iran/ddpabp-persian) : تکنیک و راه حل استاندارد توسعه وب با استفاده از پایتون
+- [جنگو برای API ها](https://github.com/ftg-iran/dfa-persian) : ساخت web api ها با پایتون و جنگو
 
 ### جاوااسکریپت
 
