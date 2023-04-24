@@ -27,6 +27,7 @@
 - [کد تمیز در جاوااسکریپت](https://github.com/SepehrRasouli/clean-code-python) :  راهنمای نوشتن کد تمیز در جاوااسکریپت
 - [جاوااسکریپت شیوا](https://eloquentjs.ir/) : این کتاب درباره‌ی جاوااسکریپت، برنامه‌نویسی و شگفتی‌های دنیای دیجیتال است. می‌توانید این کتاب را همینجا آنلاین مطالعه کنید.
 - [جاوا اسکریپت چه لعنتی‌ای هست؟](https://github.com/KhodeAmirreza/wtfjs/blob/master/README-fa-ir.md) : یه لیست از مثال های جالب و نکته‌دار جاوا اسکریپت
+- [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript) :  کتاب یادگیری اصولی جاواسکریپت پایه
 
 ### ری‌اکت
 
