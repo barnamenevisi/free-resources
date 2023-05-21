@@ -209,11 +209,13 @@
 
 ## کانال های یوتیوب
 
-1 . [بهنام خانی](https://www.youtube.com/@BehnamKhani/about) : آموزش اندروید، پایتون و طراحی وب
+1 . [بهنام خانی](https://www.youtube.com/@BehnamKhani) : آموزش اندروید، پایتون و طراحی وب
 
-2 . [نابغه ها](https://www.youtube.com/@Nabegheha/playlists) : آموزش لینوکس و پایتون
+2 . [نابغه ها](https://www.youtube.com/@Nabegheha) : آموزش لینوکس و پایتون
 
-3 . [امیرحسین عبدالخالق](https://www.youtube.com/@amirhosseinab/featured) : آموزش های مرتبط با اصول مهندسی نرم افزار
+3 . [امیرحسین عبدالخالق](https://www.youtube.com/@amirhosseinab) : آموزش های مرتبط با اصول مهندسی نرم افزار
+
+4 . [پامکین](https://www.youtube.com/@PumkinGroup) :  آموزش های برنامه نویسی دات نت
 
 ## مشارکت
 
