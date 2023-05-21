@@ -213,9 +213,11 @@
 
 2 . [نابغه ها](https://www.youtube.com/@Nabegheha) : آموزش لینوکس و پایتون
 
-3 . [امیرحسین عبدالخالق](https://www.youtube.com/@amirhosseinab) : آموزش های مرتبط با اصول مهندسی نرم افزار
+3 . [امیرحسین عبدالخالق](https://www.youtube.com/@amirhosseinab) : (...داکر، گیت و) آموزش های مرتبط با اصول مهندسی نرم افزار
 
 4 . [پامکین](https://www.youtube.com/@PumkinGroup) :  آموزش های برنامه نویسی دات نت
+
+5 . [سیلیسیم](https://www.youtube.com/@Silicium7) : آموزش پایتون، جنگو، داکر، ری‌اکت، جاوااسکریپت
 
 ## مشارکت
 
