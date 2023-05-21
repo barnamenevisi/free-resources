@@ -211,6 +211,8 @@
 
 1 . [بهنام خانی](https://www.youtube.com/@BehnamKhani/about) : آموزش اندروید، پایتون و طراحی وب
 
+2 . [نابغه ها](https://www.youtube.com/@Nabegheha/playlists) : آموزش لینوکس و پایتون
+
 
 
 ## مشارکت
