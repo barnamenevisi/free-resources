@@ -225,6 +225,7 @@
 
 8 . [علی علایی](https://www.youtube.com/@AliAlaei) : آموزش طراحی وب، پی‌اچ‌پی، لاراول، بوت استرپ و ...
 
+9 . [پای کلاس](https://www.youtube.com/@pyclass_net) : آموزش پایتون
 
 ## مشارکت
 
