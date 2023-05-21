@@ -209,19 +209,22 @@
 
 ## کانال های یوتیوب
 
-1 . [بهنام خانی](https://www.youtube.com/@BehnamKhani) : آموزش اندروید، پایتون و طراحی وب
+1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
 
-2 . [نابغه ها](https://www.youtube.com/@Nabegheha) : آموزش لینوکس و پایتون
+2 . [بهنام خانی](https://www.youtube.com/@BehnamKhani) : آموزش اندروید، پایتون و طراحی وب
 
-3 . [امیرحسین عبدالخالق](https://www.youtube.com/@amirhosseinab) :  آموزش های مرتبط با اصول مهندسی نرم افزار (داکر و گیت و ...)
+3 . [نابغه ها](https://www.youtube.com/@Nabegheha) : آموزش لینوکس و پایتون
 
-4 . [پامکین](https://www.youtube.com/@PumkinGroup) :  آموزش های برنامه نویسی دات نت
+4 . [امیرحسین عبدالخالق](https://www.youtube.com/@amirhosseinab) :  آموزش های مرتبط با اصول مهندسی نرم افزار (داکر و گیت و ...)
 
-5 . [سیلیسیم](https://www.youtube.com/@Silicium7) : آموزش پایتون، جنگو، داکر، ری‌اکت، جاوااسکریپت، طراحی وب و ...
+5 . [پامکین](https://www.youtube.com/@PumkinGroup) :  آموزش های برنامه نویسی دات نت
 
-6 . [پارس کلیک](https://www.youtube.com/@ParsclickTV) : آموزش پی‌اچ‌پی، ری‌اکت، جاوااسکریپت، نکست جی اس و ...
+6 . [سیلیسیم](https://www.youtube.com/@Silicium7) : آموزش پایتون، جنگو، داکر، ری‌اکت، جاوااسکریپت، طراحی وب و ...
 
-7 . [علی علایی](https://www.youtube.com/@AliAlaei) : آموزش طراحی وب، پی‌اچ‌پی، لاراول، بوت استرپ و ...
+7 . [پارس کلیک](https://www.youtube.com/@ParsclickTV) : آموزش پی‌اچ‌پی، ری‌اکت، جاوااسکریپت، نکست جی اس و ...
+
+8 . [علی علایی](https://www.youtube.com/@AliAlaei) : آموزش طراحی وب، پی‌اچ‌پی، لاراول، بوت استرپ و ...
+
 
 ## مشارکت
 
