@@ -213,7 +213,7 @@
 
 2 . [نابغه ها](https://www.youtube.com/@Nabegheha/playlists) : آموزش لینوکس و پایتون
 
-
+3 . [امیرحسین عبدالخالق](https://www.youtube.com/@amirhosseinab/featured) : آموزش های مرتبط با اصول مهندسی نرم افزار
 
 ## مشارکت
 
