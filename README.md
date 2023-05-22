@@ -1,4 +1,4 @@
-# Awesome Persian[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Persian  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  هر چیز عالی که در دنیای فارسی زبان ها وجود داره مثل کتاب ها، کتابخونه ها، فریم ورک ها، دوره‌ها، سایت‌ها و هر چیز مرتبط دیگه‌ای
 ## محتوا
