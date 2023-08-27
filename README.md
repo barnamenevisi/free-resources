@@ -67,6 +67,8 @@
 
 4 . [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript) : کتاب یادگیری اصولی جاواسکریپت پایه
 
+5 . [آموزش جاوااسکریپت مدرن](https://fa.javascript.info/) :  از مباحث پایه تا پیشرفته با توضیحات ساده اما پرجزئیات.
+
 ### ری‌اکت
 
 1 . [ری‌اکت](https://fa.legacy.reactjs.org/) : مستندات رسمی ری‌اکت به زبان فارسی
