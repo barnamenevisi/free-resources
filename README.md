@@ -246,11 +246,6 @@
 2 . [آموزش برنامه نویسی پایتون از صفر](https://youtu.be/gW2M2Dhi88c?si=WTbPpDMKFuAmdT2F)
 
 
-<<<<<<< HEAD
-3 . [آموزش  پایتون از صفر کلوین](https://youtube.com/playlist?list=PLAt10Vana3YeTb2MkjarRICVG8Uxx7vUK&si=xPY8IlSFc3qIEWik)
-
-=======
->>>>>>> 41584be2dcf3f4ff153deec46f4716d13aa47b60
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
