@@ -242,6 +242,9 @@
 
 1 . [درک برنامه نویسی با جادی (پایتون)](https://www.youtube.com/watch?v=BR7m_2D_-Uw&list=PL-tKrPVkKKE1Y_o_h2w85dzVdoX5t7SI0)
 
+2 . [آموزش برنامه نویسی پایتون از صفر](https://youtu.be/gW2M2Dhi88c?si=WTbPpDMKFuAmdT2F)
+
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
