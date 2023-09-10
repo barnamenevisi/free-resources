@@ -280,6 +280,8 @@
 
 2 . [آموزش زبان برنامه نویسی جاوااسکریپت از مقدماتی تا پیشرفته](https://youtu.be/yi5fOqg1jzA?si=ziAgimHaEY_EToQL)
 
+3 . [جاوا اسکریپت مقدماتی](https://www.youtube.com/playlist?list=PLhpS3tgUDZcqcMv8-wypJxUpqxi95l-02)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
