@@ -292,6 +292,8 @@
 
 7 . [آموزش فارسی جاوا اسکریپت مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLfbD3-Ao6cPpt5Y3Nkue_W-DrmdOLOaTH)
 
+8 . [آموزش جاوا اسکریپت](https://www.youtube.com/playlist?list=PLi3_QQ40Q-sy0ymPiC49EegXZz4DyjOwE)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
