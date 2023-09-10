@@ -259,6 +259,7 @@
 
 7 . [آموزش کامل برنامه نویسی پایتون در 3 ساعت](https://www.youtube.com/watch?v=BsScQ1mOKrA)
 
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
