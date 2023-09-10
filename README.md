@@ -294,6 +294,8 @@
 
 8 . [آموزش جاوا اسکریپت](https://www.youtube.com/playlist?list=PLi3_QQ40Q-sy0ymPiC49EegXZz4DyjOwE)
 
+9 . [آموزش جاوااسکریپت - دوره فشرده](https://www.youtube.com/watch?v=oUjQ7eP38H8&pp=ygUi2KLZhdmI2LLYtCDYrNin2YjYpyDYp9iz2qnYsduM2b7Yqg%3D%3D)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
