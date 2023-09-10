@@ -284,6 +284,8 @@
 
 4 . [آموزش زبان برنامه نویسی جاوااسکریپت به زبان ساده ( JavaScript از مبتدی تا پیشرفته)](https://youtu.be/gRkQIN1GB5I?si=2DStXt5GOwVvV7Rj)
 
+5 . [دوره آموزشی جاوا اسکریپت مدرن](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
