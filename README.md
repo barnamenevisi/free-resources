@@ -253,6 +253,9 @@
 
 5 . [آموزش پایتون-صفر تا بی نهایت](https://youtube.com/playlist?list=PLe_DUrcBPdbJzZHw2astJno4RrhbRzMDB&si=en1OVU0ZQCqSkIez)
 
+
+6 . [آموزش پایتون مقدماتی](https://www.youtube.com/playlist?list=PL8oRZVu1TnSL5-9e0VdIcgZOEg-3tda0l)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
