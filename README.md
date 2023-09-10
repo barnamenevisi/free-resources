@@ -265,6 +265,10 @@
 
 9 . [آموزش پایتون از صفر تا صد (مقدماتی)](https://www.youtube.com/watch?v=0H3eAqW9X3I)
 
+10 . [پایتون مقدماتی استاد جادی](https://www.youtube.com/watch?v=XTsQxezu-KU&list=PLAu43_uf7P1_77h4v3HQv-ZhS_3QA9QvS)
+
+11 . [پایتون پیشرفته استاد جادی](https://www.youtube.com/watch?v=KG3FIXyWFS4&list=PLAu43_uf7P1-jro1hIQ4uB4kUh02vvb3n)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
