@@ -300,6 +300,8 @@
 
 11 . [آموزش برنامه نویسی جاوا اسکریپت مقدماتی - به زبانی ساده](https://www.youtube.com/watch?v=psntgzi3cZM)
 
+12 . [جاوا اسکریپت در دو ساعت](https://www.youtube.com/watch?v=LqhaZvQmK1c&list=PL3Y-E4YSE4wbtUBfCZ3OW93fnyd92NIhd)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
