@@ -276,7 +276,7 @@
 
 ### جاوااسکریپت
 
-[آموزش مقدماتی تا حرفه‌ای جاوااسکریپت](https://www.youtube.com/playlist?list=PLSccONlqbvwfmf4m9UUWR-Oa0TBOMwaai)
+1 . [آموزش مقدماتی تا حرفه‌ای جاوااسکریپت](https://www.youtube.com/playlist?list=PLSccONlqbvwfmf4m9UUWR-Oa0TBOMwaai)
 
 ## کانال های یوتیوب
 
