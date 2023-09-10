@@ -298,6 +298,8 @@
 
 10 . [آموزش جاوا اسکریپت برای مبتدی ها](https://www.youtube.com/watch?v=_Ll6C5epgdQ&pp=ygUi2KLZhdmI2LLYtCDYrNin2YjYpyDYp9iz2qnYsduM2b7Yqg%3D%3D)
 
+11 . [آموزش برنامه نویسی جاوا اسکریپت مقدماتی - به زبانی ساده](https://www.youtube.com/watch?v=psntgzi3cZM)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
