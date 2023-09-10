@@ -287,6 +287,9 @@
 
 5 . [دوره آموزشی جاوا اسکریپت مدرن](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF)
 
+
+6 . [آموزش جاوا اسکریپت JavaScript پروژه محور](https://www.youtube.com/playlist?list=PLAKVGYzakHC25_FHYEPI6ORCEU418kmHc)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
