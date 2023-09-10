@@ -259,7 +259,11 @@
 
 7 . [آموزش کامل برنامه نویسی پایتون در 3 ساعت](https://www.youtube.com/watch?v=BsScQ1mOKrA)
 
+
 8 . [آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )](https://www.youtube.com/watch?v=_EHmnmGVSDI)
+
+
+9 . [آموزش پایتون از صفر تا صد (مقدماتی)](https://www.youtube.com/watch?v=0H3eAqW9X3I)
 
 ## کانال های یوتیوب
 
