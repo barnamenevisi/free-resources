@@ -1,6 +1,6 @@
 # Awesome Persian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img width="1000" alt="235274104-22ec98bf-88e7-4cda-90bc-66744f8f16cc" src="https://github.com/barnamenevisi/awesome-persian/assets/62311769/dece80af-6d50-4636-a1f9-c25eb414c484">
+<img width="1000" alt="wide-2" src="https://github.com/barnamenevisi/awesome-persian/assets/62311769/c2007a8c-c622-4527-81f4-9b59a3b69883">
 
 
 
