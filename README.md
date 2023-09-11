@@ -302,6 +302,8 @@
 
 12 . [جاوا اسکریپت در دو ساعت](https://www.youtube.com/watch?v=LqhaZvQmK1c&list=PL3Y-E4YSE4wbtUBfCZ3OW93fnyd92NIhd)
 
+13 . [آموزش جاوااسکریپت](https://www.youtube.com/playlist?list=PL6wpw9cKs6t8NL_N-7djPor5YJG_tVsZt)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
