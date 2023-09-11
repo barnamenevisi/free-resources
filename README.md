@@ -1,5 +1,9 @@
 # Awesome Persian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<img width="1000" alt="235274104-22ec98bf-88e7-4cda-90bc-66744f8f16cc" src="https://github.com/barnamenevisi/awesome-persian/assets/62311769/dece80af-6d50-4636-a1f9-c25eb414c484">
+
+
+
 هر چیز عالی که در دنیای فارسی زبان ها وجود داره مثل کتاب ها، کتابخونه ها، فریم ورک ها، دوره‌ها، سایت‌ها و هر چیز مرتبط دیگه‌ای، تمام منابع آموزشی معرفی شده رایگان هستن برای اینکه هیچکس به خاطر نداشتن پول از آموزش عقب نمونه
 
 
