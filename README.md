@@ -316,6 +316,13 @@
 
 13 . [آموزش جاوااسکریپت](https://www.youtube.com/playlist?list=PL6wpw9cKs6t8NL_N-7djPor5YJG_tVsZt)
 
+
+### سی
+
+1 . [دوره فشرده آموزش زبان C](https://youtube.com/playlist?list=PLGa0L9gc2hbK6G83Hn58uNu--UaEgdWDU&si=lDqH4nzg6ZYuyQzF)
+
+
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
