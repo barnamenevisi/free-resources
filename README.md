@@ -327,6 +327,8 @@
 
 4 . [آموزش صفر تا صد زبان سی](https://www.youtube.com/playlist?list=PLNpAYquuZBuy-iE6R5UxUtY4f1wlSEmJf)
 
+5 . [آموزش زبان سی](https://www.youtube.com/playlist?list=PLWv0K9RQ9GxvE-29BMiOJgF1Nq-V1whpZ)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
