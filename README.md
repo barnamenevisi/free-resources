@@ -321,7 +321,7 @@
 
 1 . [دوره فشرده آموزش زبان C](https://youtube.com/playlist?list=PLGa0L9gc2hbK6G83Hn58uNu--UaEgdWDU&si=lDqH4nzg6ZYuyQzF)
 
-
+2 . [آموزش زبان سی برای مبتدیان](https://youtube.com/playlist?list=PL9sbjb0M23nn_7ZvnPYhapxCe52kii288&si=ruSrbZNbfw1Tbv51)
 
 ## کانال های یوتیوب
 
