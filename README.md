@@ -329,6 +329,8 @@
 
 5 . [آموزش زبان سی](https://www.youtube.com/playlist?list=PLWv0K9RQ9GxvE-29BMiOJgF1Nq-V1whpZ)
 
+6 . [شروع یادگیری پایه برنامه نویسی به زبان سی](https://www.youtube.com/playlist?list=PLkqgb1H9Yxp0vNose9wNNg5VdTWqW4Mc8)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
