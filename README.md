@@ -323,6 +323,8 @@
 
 2 . [آموزش زبان سی برای مبتدیان](https://youtube.com/playlist?list=PL9sbjb0M23nn_7ZvnPYhapxCe52kii288&si=ruSrbZNbfw1Tbv51)
 
+3 . [آموزش زبان سی](https://www.youtube.com/playlist?list=PLKQVOcz77ftT-pTeFpkONleJONblfPSmA)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
