@@ -353,6 +353,8 @@
 
 3 . [آموزش سی پلاس پلاس](https://www.youtube.com/playlist?list=PLSccONlqbvwfC6IADl8ePIUM-lM9ghDsQ)
 
+4 . [آموزش سی پلاس پلاس صفر تا بی نهایت](https://www.youtube.com/playlist?list=PLe_DUrcBPdbLA38d-qu8_NgLy4oKdGDUI)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
