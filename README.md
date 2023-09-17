@@ -339,7 +339,7 @@
 
 2 . [آموزش سی شارپ پیشرفته](https://www.youtube.com/playlist?list=PL8oRZVu1TnSLry0iwYTHzWhcpSg1w4K1c)
 
-
+3 . [آموزش کامل برنامه نویسی سی شارپ](https://www.youtube.com/playlist?list=PLyFg6Iua5MRklnyBDnOfFW8Yo-SRylj1f)
 
 ## کانال های یوتیوب
 
