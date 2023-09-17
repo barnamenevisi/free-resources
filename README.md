@@ -349,6 +349,8 @@
 
 1 . [آموزش سی پلاس پلاس مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLi3_QQ40Q-swVjp8jd49SYwabccT1VNkO)
 
+2 . [دوره آموزش سی پلاس پلاس](https://www.youtube.com/playlist?list=PLTEzTFAAzxQ5iUo9xD-5HlM-stLDyidpg)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
