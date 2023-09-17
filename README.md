@@ -337,6 +337,10 @@
 
 1 . [آموزش سی شارپ مقدماتی](https://www.youtube.com/playlist?list=PL88FyqCuoZ7uCD88phj8YewM8XGypLLe-)
 
+2 . [آموزش سی شارپ پیشرفته](https://www.youtube.com/playlist?list=PL8oRZVu1TnSLry0iwYTHzWhcpSg1w4K1c)
+
+
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
