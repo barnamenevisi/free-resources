@@ -337,9 +337,11 @@
 
 1 . [آموزش سی شارپ مقدماتی](https://www.youtube.com/playlist?list=PL88FyqCuoZ7uCD88phj8YewM8XGypLLe-)
 
-2 . [آموزش سی شارپ پیشرفته](https://www.youtube.com/playlist?list=PL8oRZVu1TnSLry0iwYTHzWhcpSg1w4K1c)
+2 . [آموزش سی شارپ پیشرفته](https://www.youtube.com/playlist?list=PL8oRZVu1TnSJgN_FjsA1pNa7pXr0g5QO_)
 
 3 . [آموزش کامل برنامه نویسی سی شارپ](https://www.youtube.com/playlist?list=PLyFg6Iua5MRklnyBDnOfFW8Yo-SRylj1f)
+
+4 . [آموزش زبان برنامه نویسی سی شارپ](https://www.youtube.com/playlist?list=PLeVHiZueE4rgCWD9Vf0HwwlPYLv5p5W9Z)
 
 ## کانال های یوتیوب
 
