@@ -289,6 +289,11 @@
 
 12 . [آموزش پایتون از مقدماتی تا پیشرفته](https://youtube.com/playlist?list=PLSccONlqbvwfRfFzJiaUSuLvsXJc7LYkP&si=esbfHOXXxp73wL5t)
 
+### جاوا
+
+1 . [آموزش کامل جاوا از مبتدی تا پیشرفته](https://www.youtube.com/playlist?list=PL6CNagg8skpuAwgntfPV4MFDMSPYG0Cv7)
+
+
 
 ### جاوااسکریپت
 
