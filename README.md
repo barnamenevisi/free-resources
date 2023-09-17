@@ -344,6 +344,10 @@
 
 4 . [آموزش زبان برنامه نویسی سی شارپ](https://www.youtube.com/playlist?list=PLeVHiZueE4rgCWD9Vf0HwwlPYLv5p5W9Z)
 
+### سی پلاس پلاس
+
+1 . [آموزش سی پلاس پلاس مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLi3_QQ40Q-swVjp8jd49SYwabccT1VNkO)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
