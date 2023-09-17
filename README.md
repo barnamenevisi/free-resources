@@ -332,6 +332,11 @@
 
 6 . [شروع یادگیری پایه برنامه نویسی به زبان سی](https://www.youtube.com/playlist?list=PLkqgb1H9Yxp0vNose9wNNg5VdTWqW4Mc8)
 
+### سی شارپ
+
+
+1 . [آموزش سی شارپ مقدماتی](https://www.youtube.com/playlist?list=PL88FyqCuoZ7uCD88phj8YewM8XGypLLe-)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
