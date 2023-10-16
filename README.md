@@ -343,6 +343,12 @@
 
 4 . [آموزش سی پلاس پلاس صفر تا بی نهایت](https://www.youtube.com/playlist?list=PLe_DUrcBPdbLA38d-qu8_NgLy4oKdGDUI)
 
+### دواپس
+
+1 . [دواپس هابیز](https://www.youtube.com/@devopshobbies)
+
+2 . [مرتضی باشسیز](https://www.youtube.com/@MortezaBashsiz)
+
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
@@ -390,6 +396,8 @@
 22 . [سروین خان طباطبایی](https://www.youtube.com/@sarvinStyle) : آموزش ریکت، نود جی‌اس و گیت و ...
 
 23 . [مسعود صدری](https://www.youtube.com/@MasoodSadri) : آموزش جاوااسکریپت، ریکت و ...
+
+24 . [سعید شهریوری](https://www.youtube.com/@saeedshahrivari1586) : ویدیوهای آموزشی در زمینه درس‌های مختلف مهندسی کامپیوتر
 
 ## مشارکت
 
