@@ -44,6 +44,7 @@
   - [سی پلاس پلاس (++c)](#سی-پلاس-پلاس-1)
   - [دواپس (DevOps)](#دواپس)
   - [ریاضیات (Mathematics)](#ریاضیات)
+  - [لاتک (Latex)](#لاتک)
 - [کانال های یوتیوب](#کانال-های-یوتیوب)
 - [مشارکت](#مشارکت)
 
@@ -358,6 +359,10 @@
 
 1 . [معادلات دیفرانسیل (دکتر علی مس فروش)](https://www.youtube.com/playlist?list=PLkwcg2bJtvvbJ9CLhfhp16hTL1zGFweSc)
 
+
+### لاتک
+
+1 . [آموزش لاتک و زیپرشین](https://www.youtube.com/playlist?list=PLkwcg2bJtvvbwElYq9afuaotLz1j5t736)
 
 ## کانال های یوتیوب
 
