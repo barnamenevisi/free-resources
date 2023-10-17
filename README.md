@@ -354,7 +354,7 @@
 
 ### ریاضیات
 
-1 . [(دکتر علی مس فروش) معادلات دیفرانسیل](https://www.youtube.com/playlist?list=PLkwcg2bJtvvbJ9CLhfhp16hTL1zGFweSc)
+1 . [معادلات دیفرانسیل (دکتر علی مس فروش)](https://www.youtube.com/playlist?list=PLkwcg2bJtvvbJ9CLhfhp16hTL1zGFweSc)
 
 
 ## کانال های یوتیوب
