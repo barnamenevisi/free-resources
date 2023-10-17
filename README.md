@@ -43,6 +43,7 @@
   - [سی شارپ (#c)](#سی-شارپ-1)
   - [سی پلاس پلاس (++c)](#سی-پلاس-پلاس-1)
   - [دواپس (DevOps)](#دواپس)
+  - [ریاضیات (Mathematics)](#ریاضیات)
 - [کانال های یوتیوب](#کانال-های-یوتیوب)
 - [مشارکت](#مشارکت)
 
@@ -349,6 +350,12 @@
 1 . [دواپس هابیز](https://www.youtube.com/@devopshobbies)
 
 2 . [مرتضی باشسیز](https://www.youtube.com/@MortezaBashsiz)
+
+
+### ریاضیات
+
+1 . [(دکتر علی مس فروش) معادلات دیفرانسیل](https://www.youtube.com/playlist?list=PLkwcg2bJtvvbJ9CLhfhp16hTL1zGFweSc)
+
 
 ## کانال های یوتیوب
 
