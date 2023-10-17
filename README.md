@@ -2,10 +2,7 @@
 
 <img width="1000" alt="wide-2" src="https://github.com/barnamenevisi/awesome-persian/assets/62311769/c2007a8c-c622-4527-81f4-9b59a3b69883">
 
-
-
 تمام منابع آموزشی معرفی شده رایگان هستن برای اینکه هیچکس به خاطر نداشتن پول از آموزش عقب نمونه، امیدوارم مفید باشه
-
 
 ## محتوا
 
@@ -130,7 +127,6 @@
 
 1 . [درک الگوریتم؛ راهنمای تصویری برای برنامه‌نو یس‌ها و افراد کنجکاو](https://t.me/barnamenevisichannel/295) : اگر کسی می‌خواد به شکل عمومی در مورد الگوریتم‌ها بهتر بشه، یک گزینه خیلی ساده‌تر و شاید عملی‌تر هست؛ حالا وقتشه که اون گزینه رو معرفی کنم: کتاب درک الگوریتم مصور از آدیتیا بهارگاوا با ترجمه  مهران افشارنادری. این کتاب با اسم کامل «درک الگوریتم، راهنمای تصو یری برای برنامه نو یس‌ها و افراد کنجکاو»‌ چیزی است که اگر یکی بگه «می خوام الگوریتم بخونم» من بهش پیشنهاد می‌کنم. عکس های کیوت و بامزه و بی مزه و دارای فصل بندی خوب و توضیحات مناسب و نمونه سوال بدون وارد شدن به جزییات خیلی ریز ریاضی‌وار.
 
-
 ### متفرقه
 
 1 . [اطلاعات مربوط به تسهیلات نظام وظیفه](https://github.com/m-yosefpor/nezam-vazifeh) : اطلاعات مربوط به تسهیلات نظام وظیفه تخصصی (امریه ی دانش بنیان، پروژه جایگزین خدمت)
@@ -248,10 +244,9 @@
 
 3 . [ری‌اکت اپ](https://reactapp.ir/courses/%D8%AF%D9%88%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-git-%D9%88-github/) : در این دوره ما سعی کردیم از پایه ترین مفاهیم و دستورات گیت (git) شروع و مرحله به مرحله مفاهیم پیشرفته و دستورات کاربردی را آموزش دهیم تا شما به راحتی بتوانید از ابزار git برای کنترل ورژن برنامه های خود استفاده کنید. همچنین در بسیاری از آموزش های سایت از جمله دوره جامع و پروژه محور NodeJS از Git و Github استفاده کرده ایم و کاربرانی که این دوره را مشاهده کرده اند به خوبی با این مفاهیم آشنا هستند با این وجود در این دوره مباحث مقدماتی تا پیشرفته گیت (git) را بیان می کنیم.
 
-
 ### الگوریتم
 
-1 . [آموزش کامل طراحی الکوریتم ها دانشگاه تهران](https://maktabkhooneh.org/course/189-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-mk189/) :  این محتوا توسط استاد محمد گنج تابش در دانشگاه تهران ضبط‌ شده است.
+1 . [آموزش کامل طراحی الکوریتم ها دانشگاه تهران](https://maktabkhooneh.org/course/189-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85-mk189/) : این محتوا توسط استاد محمد گنج تابش در دانشگاه تهران ضبط‌ شده است.
 درس طراحی الگوریتم یکی از درس‌های پایه و پیش‌نیاز دروس مهم دیگر در رشته مهندسی کامپیوتر و علوم کامپیوتر به‌حساب می‌آید و برای کنکور کارشناسی ارشد و حتی دکتری از اهمیت بالایی برخوردار است. همچنین امروزه بسیاری از رسته‌های شغلی مانند مهندسی نرم‌افزار، شبکه‌های کامپیوتری، طراحان آموزش ساختمان داده، مهندسین هوش مصنوعی وغیره به‌شدت به این الگوریتم‌ها وابسته هستند و بدون درک و آگهی از الگوریتم کار در این حوزه‌ها امکان ندارد.
 
 ## دوره های آموزشی در یوتیوب
@@ -262,24 +257,17 @@
 
 2 . [آموزش برنامه نویسی پایتون از صفر](https://youtu.be/gW2M2Dhi88c?si=WTbPpDMKFuAmdT2F)
 
-
-3 . [آموزش  پایتون از صفر کلوین](https://youtube.com/playlist?list=PLAt10Vana3YeTb2MkjarRICVG8Uxx7vUK&si=xPY8IlSFc3qIEWik)
-
+3 . [آموزش پایتون از صفر کلوین](https://youtube.com/playlist?list=PLAt10Vana3YeTb2MkjarRICVG8Uxx7vUK&si=xPY8IlSFc3qIEWik)
 
 4 . [آموزش پایتون مقدماتی از صفر - کاملا مفهومی و رایگان](https://youtube.com/playlist?list=PL4Q6mJQ-jvXiUedanfGoFO1HwkEnpFodi&si=7YZszLJtIydIIdWK)
 
-
 5 . [آموزش پایتون-صفر تا بی نهایت](https://youtube.com/playlist?list=PLe_DUrcBPdbJzZHw2astJno4RrhbRzMDB&si=en1OVU0ZQCqSkIez)
-
 
 6 . [آموزش پایتون مقدماتی](https://www.youtube.com/playlist?list=PL8oRZVu1TnSL5-9e0VdIcgZOEg-3tda0l)
 
-
 7 . [آموزش کامل برنامه نویسی پایتون در 3 ساعت](https://www.youtube.com/watch?v=BsScQ1mOKrA)
 
-
 8 . [آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )](https://www.youtube.com/watch?v=_EHmnmGVSDI)
-
 
 9 . [آموزش پایتون از صفر تا صد (مقدماتی)](https://www.youtube.com/watch?v=0H3eAqW9X3I)
 
@@ -287,14 +275,11 @@
 
 11 . [پایتون پیشرفته استاد جادی](https://www.youtube.com/watch?v=KG3FIXyWFS4&list=PLAu43_uf7P1-jro1hIQ4uB4kUh02vvb3n)
 
-
 12 . [آموزش پایتون از مقدماتی تا پیشرفته](https://youtube.com/playlist?list=PLSccONlqbvwfRfFzJiaUSuLvsXJc7LYkP&si=esbfHOXXxp73wL5t)
 
 ### جاوا
 
 1 . [آموزش کامل جاوا از مبتدی تا پیشرفته](https://www.youtube.com/playlist?list=PL6CNagg8skpuAwgntfPV4MFDMSPYG0Cv7)
-
-
 
 ### جاوااسکریپت
 
@@ -307,7 +292,6 @@
 4 . [آموزش زبان برنامه نویسی جاوااسکریپت به زبان ساده ( JavaScript از مبتدی تا پیشرفته)](https://youtu.be/gRkQIN1GB5I?si=2DStXt5GOwVvV7Rj)
 
 5 . [دوره آموزشی جاوا اسکریپت مدرن](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF)
-
 
 6 . [آموزش جاوا اسکریپت JavaScript پروژه محور](https://www.youtube.com/playlist?list=PLAKVGYzakHC25_FHYEPI6ORCEU418kmHc)
 
@@ -325,7 +309,6 @@
 
 13 . [آموزش جاوااسکریپت](https://www.youtube.com/playlist?list=PL6wpw9cKs6t8NL_N-7djPor5YJG_tVsZt)
 
-
 ### سی
 
 1 . [دوره فشرده آموزش زبان C](https://youtube.com/playlist?list=PLGa0L9gc2hbK6G83Hn58uNu--UaEgdWDU&si=lDqH4nzg6ZYuyQzF)
@@ -341,7 +324,6 @@
 6 . [شروع یادگیری پایه برنامه نویسی به زبان سی](https://www.youtube.com/playlist?list=PLkqgb1H9Yxp0vNose9wNNg5VdTWqW4Mc8)
 
 ### سی شارپ
-
 
 1 . [آموزش سی شارپ مقدماتی](https://www.youtube.com/playlist?list=PL88FyqCuoZ7uCD88phj8YewM8XGypLLe-)
 
@@ -360,6 +342,12 @@
 3 . [آموزش سی پلاس پلاس](https://www.youtube.com/playlist?list=PLSccONlqbvwfC6IADl8ePIUM-lM9ghDsQ)
 
 4 . [آموزش سی پلاس پلاس صفر تا بی نهایت](https://www.youtube.com/playlist?list=PLe_DUrcBPdbLA38d-qu8_NgLy4oKdGDUI)
+
+### دواپس
+
+1 . [دواپس هابیز](https://www.youtube.com/@devopshobbies)
+
+2 . [مرتضی باشسیز](https://www.youtube.com/@MortezaBashsiz)
 
 ## کانال های یوتیوب
 
@@ -408,6 +396,8 @@
 22 . [سروین خان طباطبایی](https://www.youtube.com/@sarvinStyle) : آموزش ریکت، نود جی‌اس و گیت و ...
 
 23 . [مسعود صدری](https://www.youtube.com/@MasoodSadri) : آموزش جاوااسکریپت، ریکت و ...
+
+24 . [سعید شهریوری](https://www.youtube.com/@saeedshahrivari1586) : ویدیوهای آموزشی در زمینه درس‌های مختلف مهندسی کامپیوتر
 
 ## مشارکت
 
