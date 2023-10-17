@@ -45,6 +45,7 @@
   - [دواپس (DevOps)](#دواپس)
   - [ریاضیات (Mathematics)](#ریاضیات)
   - [لاتک (Latex)](#لاتک)
+  - [متلب (Matlab)](#متلب)
 - [کانال های یوتیوب](#کانال-های-یوتیوب)
 - [مشارکت](#مشارکت)
 
@@ -363,6 +364,12 @@
 ### لاتک
 
 1 . [آموزش لاتک و زیپرشین](https://www.youtube.com/playlist?list=PLkwcg2bJtvvbwElYq9afuaotLz1j5t736)
+
+
+### متلب
+
+1 . [آموزش متلب](https://www.youtube.com/playlist?list=PLkwcg2bJtvvYrgRVa5GsercaksE1Iwk7X)
+
 
 ## کانال های یوتیوب
 
