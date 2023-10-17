@@ -325,6 +325,8 @@
 
 6 . [شروع یادگیری پایه برنامه نویسی به زبان سی](https://www.youtube.com/playlist?list=PLkqgb1H9Yxp0vNose9wNNg5VdTWqW4Mc8)
 
+7 . [آموزش سی از دکتر علی مس فروش](https://www.youtube.com/playlist?list=PLkwcg2bJtvvYuyFQ9h8smvcw3zA91WHzL)
+
 ### سی شارپ
 
 1 . [آموزش سی شارپ مقدماتی](https://www.youtube.com/playlist?list=PL88FyqCuoZ7uCD88phj8YewM8XGypLLe-)
