@@ -54,7 +54,7 @@
 
 ### پایتون
 
-1 . [کد تمیز در پایتون](https://github.com/SepehrRasouli/clean-code-python) : (1) راهنمای نوشتن کد تمیز در پا
+1 . [کد تمیز در پایتون](https://github.com/SepehrRasouli/clean-code-python) : (1) راهنمای نوشتن کد تمیز در پایتون
 
 2 . [کد تمیز در پایتون](https://github.com/ftg-iran/clean-code-python) : (2) راهنمای نوشتن کد تمیز در پایتون
 
