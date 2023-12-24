@@ -320,6 +320,7 @@
 
 13 . [آموزش جاوااسکریپت](https://www.youtube.com/playlist?list=PL6wpw9cKs6t8NL_N-7djPor5YJG_tVsZt)
 
+
 ### سی
 
 1 . [دوره فشرده آموزش زبان C](https://youtube.com/playlist?list=PLGa0L9gc2hbK6G83Hn58uNu--UaEgdWDU&si=lDqH4nzg6ZYuyQzF)
@@ -336,7 +337,7 @@
 
 7 . [آموزش سی از دکتر علی مس فروش](https://www.youtube.com/playlist?list=PLkwcg2bJtvvYuyFQ9h8smvcw3zA91WHzL)
 
-### سی شارپ
+### سی شارپ و دات نت
 
 1 . [آموزش سی شارپ مقدماتی](https://www.youtube.com/playlist?list=PL88FyqCuoZ7uCD88phj8YewM8XGypLLe-)
 
@@ -345,6 +346,14 @@
 3 . [آموزش کامل برنامه نویسی سی شارپ](https://www.youtube.com/playlist?list=PLyFg6Iua5MRklnyBDnOfFW8Yo-SRylj1f)
 
 4 . [آموزش زبان برنامه نویسی سی شارپ](https://www.youtube.com/playlist?list=PLeVHiZueE4rgCWD9Vf0HwwlPYLv5p5W9Z)
+
+5 . [آموزش Entity Framework Core](https://www.youtube.com/watch?v=XQgbRTvHqEg&list=PLN5rV4x2x5Xfob-AfkhkixASFveutHuWm)
+
+6 . [ دوره سی شارپ با محوریت مموری .Net Memory Structure](https://www.youtube.com/watch?v=t1u6trdi9vY&list=PLN5rV4x2x5Xef7lcvrhdDBnJKVfVEw6ui)
+
+7 . [بیلد و پابلیش اتوماتیک Asp.Net Core با Github Action](https://www.youtube.com/watch?v=o6E26hmyNM4&list=PLN5rV4x2x5XcoAAh0RhmvnNzbr892fr1M)
+
+8 . [معماری نرم افزار](https://www.youtube.com/watch?v=mexiRfX37fU&list=PLN5rV4x2x5XcRubBzzDQ_WApzFBPAgnoh)
 
 ### سی پلاس پلاس
 
