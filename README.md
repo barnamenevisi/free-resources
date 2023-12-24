@@ -320,13 +320,12 @@
 
 1 . [آموزش Entity Framework Core](https://www.youtube.com/watch?v=XQgbRTvHqEg&list=PLN5rV4x2x5Xfob-AfkhkixASFveutHuWm)
 
-2 . [.Net Memory Structure](https://www.youtube.com/watch?v=t1u6trdi9vY&list=PLN5rV4x2x5Xef7lcvrhdDBnJKVfVEw6ui)
+2 . [ دوره سی شارپ با محوریت مموری .Net Memory Structure](https://www.youtube.com/watch?v=t1u6trdi9vY&list=PLN5rV4x2x5Xef7lcvrhdDBnJKVfVEw6ui)
 
 3 . [بیلد و پابلیش اتوماتیک Asp.Net Core با Github Action](https://www.youtube.com/watch?v=o6E26hmyNM4&list=PLN5rV4x2x5XcoAAh0RhmvnNzbr892fr1M)
 
 4 . [معماری نرم افزار](https://www.youtube.com/watch?v=mexiRfX37fU&list=PLN5rV4x2x5XcRubBzzDQ_WApzFBPAgnoh)
 
-5 . [.Net Memory Structure](https://www.youtube.com/watch?v=t1u6trdi9vY&list=PLN5rV4x2x5XfGfkDsN0xF50bYfaXj5b_H)
 ## کانال های یوتیوب
 
 1 . [جادی](https://www.youtube.com/@JadiMirmirani) : آموزش پایتون، لینوکس،‌ هک و امنیت، شبکه و ...
