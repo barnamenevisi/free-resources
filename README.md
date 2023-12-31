@@ -1,4 +1,4 @@
-# منابع رایگان آموزش برنامه نویسی
+# آموزش رایگان برنامه نویسی
 
 <img width="1000" alt="wide-2" src="https://github.com/barnamenevisi/awesome-persian/assets/62311769/c2007a8c-c622-4527-81f4-9b59a3b69883">
 
