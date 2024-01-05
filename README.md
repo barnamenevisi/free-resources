@@ -464,6 +464,10 @@
 
 1 . [آموزش متلب](https://www.youtube.com/playlist?list=PLkwcg2bJtvvYrgRVa5GsercaksE1Iwk7X)
 
+### بلاکچین
+
+1 . [دوره بلاک چین، رمزارزها و بیت کوین](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1gLxAL-56H-XR-fTapqofC)
+
 
 ## کانال های یوتیوب
 
