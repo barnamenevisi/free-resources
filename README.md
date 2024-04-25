@@ -85,7 +85,6 @@
 
 6 . [تست‌نویسی در Pytest به زبون آدمیزاد !](https://github.com/3lf/pytest-for-humans) : پای‌تست معروف ترین و محبوب ترین کتابخونه تست‌نویسی پایتون هست که توی این صفحه میخوام با کمک گرفتن از چندین منبع به زبون آدمی زاد اون رو بهتون یاد بدم!
 
-7 . [Python PEP8 for persian dummies - ‫Python PEP8 به زبان آدمیزاد](https://github.com/vahit/pep8-per)
 ### جنگو
 
 1 . [الگوهای طراحی جنگو و رویه‌های برتر](https://github.com/ftg-iran/ddpabp-persian) : تکنیک و راه حل استاندارد توسعه وب با استفاده از پایتون
