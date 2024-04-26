@@ -67,6 +67,7 @@
   - [لاتک (Latex)](#لاتک)
   - [متلب (Matlab)](#متلب)
   - [بلاکچین (Blockchain)](#بلاکچین)
+  - [ریکت (React)]()
 - [کانال های یوتیوب](#کانال-های-یوتیوب)
 - [مشارکت](#مشارکت)
 
@@ -533,6 +534,10 @@
 ### بلاکچین
 
 1 . [دوره بلاک چین، رمزارزها و بیت کوین](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1gLxAL-56H-XR-fTapqofC)
+
+### ریکت 
+
+1 . [آموزش React Query از مبتدی تا پیشرفته](https://www.youtube.com/playlist?list=PLJ9zDGwhhsBzELHNdflPj4XgS2hAXBILz)
 
 
 ## کانال های یوتیوب
