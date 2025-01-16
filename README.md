@@ -69,6 +69,7 @@
   - [متلب (Matlab)](#متلب)
   - [بلاکچین (Blockchain)](#بلاکچین)
   - [ریکت (React)](#ریکت-1)
+  - [الگوهای طراحی نرم افزار (Design-Patterns)](#الگوهای-طراحی-نرم-افزار)
 - [کانال های یوتیوب](#کانال-های-یوتیوب)
 - [مشارکت](#مشارکت)
 
@@ -447,6 +448,8 @@
 
 1 . [آموزش کامل جاوا از مبتدی تا پیشرفته](https://www.youtube.com/playlist?list=PL6CNagg8skpuAwgntfPV4MFDMSPYG0Cv7)
 
+2 . [دوره ویدئویی رایگان برنامه نویسی شیء گرا در جاوا](https://www.youtube.com/playlist?list=PLhD5YGv8gWSzMSj7e-lhcAbHGQAdVsule)
+
 ### جاوااسکریپت
 
 1 . [آموزش مقدماتی تا حرفه‌ای جاوااسکریپت](https://www.youtube.com/playlist?list=PLSccONlqbvwfmf4m9UUWR-Oa0TBOMwaai)
@@ -549,6 +552,10 @@
 
 1 . [آموزش React Query از مبتدی تا پیشرفته](https://www.youtube.com/playlist?list=PLJ9zDGwhhsBzELHNdflPj4XgS2hAXBILz)
 
+### الگوهای طراحی نرم افزار 
+
+1 . [دوره ویدئویی رایگان آموزش الگوی های طراحی نرم افزار به زبان ساده](https://www.youtube.com/playlist?list=PLhD5YGv8gWSyYlm9oNto3xxZ5yYk12K1b)
+
 
 ## کانال های یوتیوب
 
@@ -603,6 +610,8 @@
 25 .  [رضا شکرزاد](https://youtube.com/@RezaShokrzad) : آموزش در زمینه علم داده شامل یادگیری ماشین، یادگیری عمیق، تحلیل آماری داده‌ و مصورسازی داده‌ها
 
 26 .  [میکروفرانت ](https://www.youtube.com/@MicroFrontend) : آموزش درباره فرانت اند، بک اند، معماری نرم افزار و ...
+
+27 .  [مصطفی دیندار](https://www.youtube.com/@Mostafa_Dindar) : آموزش های ویدئویی در خصوص توسعه نرم افزار در مقیاس سازمانی به زبان جاوا و سی شارپ
 
 
 ## مرسی از تمام دوستانی که در توسعه این پروژه مشارکت کردن ❤️
